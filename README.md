@@ -1,5 +1,3 @@
-This is a clone from an orginal source at https://repos.kb3gtn.us
-
 # GSFC G311P829 Capacitor Part Number Encoder/Decoder
 
 This is a simple python3 (pyside6) GUI to generate or decode a G311P829 Capacitor part number.
