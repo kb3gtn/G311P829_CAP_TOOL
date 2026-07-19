@@ -14,7 +14,7 @@ Clone / Download this repo into a working folder.
 Open a command terminal in the working folder.    
 Create a python virtial enviornment using: python -m venv venv    
 Enter the virtual environment: .\venv\Scripts\activate.bat  (or activate.ps1 if powershell)    
-install requirements using: pip install < requirements.txt    
+install requirements using: pip install -r requirements.txt    
 Then run the program using: python .\G311P829_tool.py     
 
 ## Linux
@@ -24,7 +24,7 @@ Open a terminal into the working folder
 Create a python virtual environment using: python3 -m venv venv    
 Note: some linux system you might need to install the python3-venv package to have this module.    
 Enter the virtual enviornment (assumes BASH) 'source ./venv/Scripts/activate'     
-install requirements into virtual environment using: pip3 install < requirements.txt    
+install requirements into virtual environment using: pip3 install -r requirements.txt    
 The run the program using: python .\G311P829_tool.py    
 
 # TODO
