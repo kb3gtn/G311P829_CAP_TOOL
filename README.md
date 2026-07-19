@@ -2,6 +2,7 @@
 
 This is a simple python3 (pyside6) GUI to generate or decode a G311P829 Capacitor part number.
 This tool also will generate a part number for a Presidio Component SR series capacitor as cross reference. 
+Main upstream repo is https://repos.kb3gtn.us/kb3gtn/G311P829_CAP_TOOL.
 
 ![image info](Screenshot.png)
 
